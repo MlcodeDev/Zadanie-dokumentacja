@@ -82,3 +82,5 @@ Get started by typing `nvim` in your terminal. Neovim has a steep learning curve
 
 ## Known issues and troubleshooting
 See the `:help faq` command.  
+
+Michał Libera
